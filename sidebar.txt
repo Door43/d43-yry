@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yry:home|Door43 (yry)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yry|d43-yry repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yry/archive/master.zip|d43-yry.zip]]
+
+**Recent Changes**
+{{changes>ns = yry}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yry|Ethnologue data]]
+
